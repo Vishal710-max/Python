@@ -114,6 +114,6 @@ By studying these notes, you will:
 ---
 
 ## 🧾 Author / Maintainer
-**Prepared by:** *Your Name*  
+**Prepared by:** *Vishal Bhingarde*  
 **Purpose:** Python Programming Documentation & Learning Notes  
 **Recommended for:** Students, developers, and educators exploring Python systematically.
