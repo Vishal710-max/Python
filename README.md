@@ -30,7 +30,7 @@ Notes/
 ## 🧩 Module Descriptions
 
 ### **00_Setup.md**
-Covers Python installation, environment setup, and configuration.  
+Covers Python installation, environment setup, and configuration with Detailed Information.  
 Includes instructions for installing Python, setting up IDEs like VS Code or PyCharm, and managing virtual environments.
 
 ### **02_Working_with_data/**
